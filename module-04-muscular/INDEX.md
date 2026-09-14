@@ -5,10 +5,10 @@
 Each filename encodes `<lesson>-<sequence>-<slug>.<ext>` — e.g. `4.01-01-<slug>.png` is the first image for that lesson. To insert one into a lesson/reading page, reference it at:
 
 ```
-<REPO_RAW_URL_BASE>/module-04-muscular/<filename>
+https://raw.githubusercontent.com/optimaondemand/hsanatomy-physiology-images/main/module-04-muscular/<filename>
 ```
 
-(see the top-level README for what `<REPO_RAW_URL_BASE>` resolves to once this repo has a remote)
+(this repo is live — see the top-level README for confirmation)
 
 
 ---

@@ -4,7 +4,13 @@ Standalone image repo for the HS Anatomy & Physiology (Florida 2000350) Semester
 
 ## Status
 
-**This repo has not been pushed to a remote yet.** Every `<img>` tag inserted into course content will need a working `https://raw.githubusercontent.com/<org>/<repo>/<commit-or-branch>/...` URL, the same pattern the Optima owl logo uses. Until this repo is pushed somewhere public (or otherwise hosted) and that base URL is known, do not fabricate or guess a URL — leave the `<img>` insertion for a follow-up pass once the real base URL is confirmed.
+**Live at `https://github.com/optimaondemand/hsanatomy-physiology-images`, branch `main`.** Raw file URLs resolve at:
+
+```
+https://raw.githubusercontent.com/optimaondemand/hsanatomy-physiology-images/main/<module-folder>/<filename>
+```
+
+e.g. `https://raw.githubusercontent.com/optimaondemand/hsanatomy-physiology-images/main/module-03-skeletal/3.01-01-bone-biology-tissue-shapes-markings-bone.jpg` — confirmed resolving 2026-09-14. This is the base URL to use in `<img src="...">` tags going forward, the same pattern the Optima owl logo uses from `optima-assets`.
 
 ## Contents
 
