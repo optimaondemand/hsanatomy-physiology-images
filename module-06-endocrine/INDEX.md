@@ -46,6 +46,7 @@ https://raw.githubusercontent.com/optimaondemand/hsanatomy-physiology-images/mai
 | `6.05-01-animation-adrenal-medulla-as-modified-sympathetic.png` | Videos for Reading 5.05 Animation of the adrenal medulla as a modified sympathetic ganglion. Show the preganglionic sympathetic neuron synapsing directly on chromaffin cells. Figures for Reading 5.06 Pancreas anatomic... | 640x423 |  |
 | `6.05-02-islet-langerhans-cellular-organization-enlarged-islet.png` | https://www.researchgate.net/figure/Pancreas-anatomy-a-Location-and-anatomical-relationships-between-the-pancreas-and_fig1_383423146 Islet of Langerhans cellular organization. An enlarged islet showing: beta cells → i... | 452x326 |  |
 | `6.05-03-insulin-glucagon-see-saw-two-column-dynamic-diagram-eating.png` | https://www.sciencedirect.com/topics/neuroscience/islets-of-langerhans Insulin-Glucagon “see-saw” - a two-column dynamic diagram. After eating vs during fasting. | 849x744 |  |
+| `6.05-04-adrenal-gland-cortex-zones-vs-medulla-hormones.jpg` | Adrenal gland: cortex zones (glomerulosa/fasciculata/reticularis) vs. medulla, with hormones released and examples. Real replacement for the AI-generated `6.04-02` image. Source: OpenStax A&P 2e Fig. 17.17 (CC BY 4.0), via anatomytool.org/node/59266. Credit carried by course front-matter attribution only. | 1102x316 |  |
 
 ## Lesson 6.06
 
